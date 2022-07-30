@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+   
+}
+html{
+    font-size: 62%;
+}
+body{
+    background-color: rgb(72, 72, 227);
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.8rem;
+}
+span{
+    font-weight: 900;
+    font-size: x-large;
+}
+button{
+    font-size:2rem ;
+    border:3px solid white;
+    border-radius: 5px;
+    background-color: white;
+   box-shadow:  rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+   margin :0.5% 0;
+   justify-content:center;
+
+}
+/*button#newDeck{
+    display: none;
+}*/
+img.hidden{
+    display:none;
+}
+h3{
+    font-size: 2rem;
+    margin-left: 2%;
+    align-items: center;
+}
