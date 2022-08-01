@@ -45,4 +45,16 @@ h3{
     }
 
 }
+@media(min-width:481px) and (max-width:850px){
+    img{
+        width:43%
+   }
+
+}
+@media(min-width:851px) and (max-width:1020px){
+    img{
+        width:43%
+   }
+
+}
     
