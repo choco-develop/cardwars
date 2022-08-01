@@ -38,3 +38,11 @@ h3{
     margin-left: 2%;
     align-items: center;
 }
+
+@media screen and ( max-width: 480px){
+    img{
+         width:40%
+    }
+
+}
+    
